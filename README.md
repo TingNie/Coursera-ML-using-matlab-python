@@ -1,7 +1,9 @@
 # ML-code-using-matlab-and-python
 coursera吴恩达机器学习课程作业自写Python2.7版本，使用jupyter notebook实现，使代码更有层次感，可读性强。
 
-实现算法包括如下：
+如果需要了解更多算法知识，本人使用jupyter notebook整理的peter的《机器学习实战》代码：https://github.com/TingNie/Machine-learning-in-action
+
+本repository实现算法包括如下：
 
 线性回归: linear_regression.ipynb
 
