@@ -1,8 +1,6 @@
 # ML-code-using-matlab-and-python
 coursera吴恩达机器学习课程作业自写Python2.7版本，使用jupyter notebook实现，使代码更有层次感，可读性强。
 
-如果需要了解更多算法知识，本人使用jupyter notebook整理的peter的《机器学习实战》代码：https://github.com/TingNie/Machine-learning-in-action
-
 本repository实现算法包括如下：
 
 线性回归: linear_regression.ipynb
@@ -29,8 +27,11 @@ pca降维：pca.ipynb
 
 协调过滤推荐算法：Collaborative_Filter.ipynb
 
-课程作业原版是MATLAB版本（填空式编码），贴出Python版本是为了相互学习，
+PS:其他的资料分享：
+-----
 
-原版本资料在我csdn博客下载：http://download.csdn.net/download/huakai16/10022509
+1.课程作业原版是MATLAB版本（填空式编码):对应 machine-learning-ex1——ex8 文件夹
 
-为了方便，现在将MATLAB版本的练习也push上来，对应machine-learning-ex1---ex8文件夹
+2.网友[kaleko](https://github.com/kaleko/CourseraML)整理的jupyter notebooks版本：对应 coursera_ml_ipynb 文件夹
+
+3.如果需要了解更多算法知识，本人使用jupyter notebook整理的peter的[《机器学习实战》代码：](https://github.com/TingNie/Machine-learning-in-action)
