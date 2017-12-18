@@ -28,11 +28,15 @@ pca降维：pca.ipynb
 
 协调过滤推荐算法：Collaborative_Filter.ipynb
 
-PS:其他的资料分享：
+PS:网上其他参考资料分享：
 -----
 
 1.课程作业原版是MATLAB版本（填空式编码):对应 machine-learning-ex1——ex8 文件夹
 
-2.网友[kaleko](https://github.com/kaleko/CourseraML)整理的jupyter notebooks版本：对应 coursera_ml_ipynb 文件夹
+2.[kaleko](https://github.com/kaleko/CourseraML)整理的jupyter notebooks版本：对应 coursera_ml_ipynb 文件夹
 
-3.如果需要了解更多算法知识，本人使用jupyter notebook整理的peter的[《机器学习实战》代码：](https://github.com/TingNie/Machine-learning-in-action)
+3.[mstampfer](https://github.com/mstampfer/Coursera-Stanford-ML-Python)对照**原版作业格式**整理的Python版本，可以尝试自己实现
+
+4.[AceCoooool](https://github.com/AceCoooool/ML-Andrew-Ng)整理的Python版本，有中文注释
+
+5.如果需要了解更多算法知识，本人使用jupyter notebook整理的peter的[《机器学习实战》代码](https://github.com/TingNie/Machine-learning-in-action)
