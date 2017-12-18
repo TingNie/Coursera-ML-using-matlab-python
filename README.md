@@ -1,5 +1,6 @@
 # ML-code-using-matlab-and-python
-coursera吴恩达机器学习课程作业自写Python2.7版本，使用jupyter notebook实现，使代码更有层次感，可读性强。
+
+coursera吴恩达机器学习课程作业自写**Python2.7**版本，使用**jupyter notebook**实现，使代码更有层次感，可读性强。
 
 本repository实现算法包括如下：
 
