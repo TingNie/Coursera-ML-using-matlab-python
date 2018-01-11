@@ -40,3 +40,5 @@ PS:网上其他参考资料分享：
 4.[AceCoooool](https://github.com/AceCoooool/ML-Andrew-Ng)整理的Python版本，有中文注释
 
 5.如果需要了解更多算法知识，本人使用jupyter notebook整理的peter的[《机器学习实战》代码](https://github.com/TingNie/Machine-learning-in-action)
+
+6.本人自写的，关于吴恩达（Andrew Ng）开设的深度学习课程[deeplearning.ai](https://github.com/TingNie/deeplearning.ai-coursera)的课程答案
